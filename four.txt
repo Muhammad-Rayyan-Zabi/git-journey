@@ -1,5 +1,6 @@
 four
+<<<<<<< HEAD
 444
-aaaaaaaaaaaaa
-aaa
-bb
+=======
+44
+>>>>>>> staging
